@@ -10,7 +10,7 @@ spec:
       chart: headlamp
       reconcileStrategy: ChartVersion
       sourceRef:
-        kind: OCIRepository
-        name: podinfo
+        kind: HelmRepository
+        name: headlamp
       version: 0.15.0
   interval: 1m0s
