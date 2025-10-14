@@ -1,5 +1,5 @@
 # AKS Desktop - Kubernetes Service for nginx
-# Generated on 2025-10-14T14:29:29.102Z
+# Generated on 2025-10-14T14:30:31.237Z
 apiVersion: v1
 kind: Service
 metadata:
