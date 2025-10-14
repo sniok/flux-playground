@@ -1,5 +1,5 @@
 # AKS Desktop - Kubernetes Deployment for nginx
-# Generated on 2025-10-14T14:29:29.102Z
+# Generated on 2025-10-14T14:30:31.237Z
 apiVersion: apps/v1
 kind: Deployment
 metadata:
